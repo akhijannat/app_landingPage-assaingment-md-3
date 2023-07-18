@@ -3,7 +3,7 @@
       <div class="container mx-auto px-4 md:px-10">
         <div class="grid grid-cols-1 md:grid-cols-2 gap-20">
           <div class="mx-auto md:ml-auto md:mr-0">
-            <img src="img/received-img.svg" alt="Laptop" class="w-full md:w-auto">
+            <img src="../assets/received-img.svg" alt="Laptop" class="w-full md:w-auto">
           </div>
           <div class="text-center md:text-left">
             <p class="text-xl md:text-2xl pb-2 font-semibold text-[#e8505b]">Contactless Delivery</p>

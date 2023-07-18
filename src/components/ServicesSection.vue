@@ -12,32 +12,32 @@
         </div>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
           <div :class="serviceCardStyle">
-            <img src="img/services/service-icon-1.svg" alt="">
+            <img src="../assets/services/service-icon-1.svg" alt="">
             <h3 class="text-2xl md:text-3xl font-semibold py-4">Food</h3>
             <p class="text-lg md:text-xl">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
           </div>
           <div :class="serviceCardStyle">
-            <img src="img/services/service-icon-2.svg" alt="">
+            <img src="../assets/services/service-icon-2.svg" alt="">
             <h3 class="text-2xl md:text-3xl font-semibold py-4">Grocery</h3>
             <p class="text-lg md:text-xl">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
           </div>
           <div :class="serviceCardStyle">
-            <img src="img/services/service-icon-3.svg" alt="">
+            <img src="../assets/services/service-icon-3.svg" alt="">
             <h3 class="text-2xl md:text-3xl font-semibold py-4">Furniture</h3>
             <p class="text-lg md:text-xl">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
           </div>
           <div :class="serviceCardStyle">
-            <img src="img/services/service-icon-4.svg" alt="">
+            <img src="../assets/services/service-icon-4.svg" alt="">
             <h3 class="text-2xl md:text-3xl font-semibold py-4">Medicine</h3>
             <p class="text-lg md:text-xl">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
           </div>
           <div :class="serviceCardStyle">
-            <img src="img/services/service-icon-5.svg" alt="">
+            <img src="../assets/services/service-icon-5.svg" alt="">
             <h3 class="text-2xl md:text-3xl font-semibold py-4">Electronics</h3>
             <p class="text-lg md:text-xl">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
           </div>
           <div :class="serviceCardStyle">
-            <img src="img/services/service-icon-6.svg" alt="">
+            <img src="../assets/services/service-icon-6.svg" alt="">
             <h3 class="text-2xl md:text-3xl font-semibold py-4">Clothes</h3>
             <p class="text-lg md:text-xl">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.</p>
           </div>

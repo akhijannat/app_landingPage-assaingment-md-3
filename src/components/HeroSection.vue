@@ -8,7 +8,7 @@
             <button href="#" class="ease-in duration-300 hover:scale-125 bg-[#e8505b] py-3 px-6 text-xl rounded-md text-white hover:border-[#e8505b] hover:bg-none hover:text-[e8505b]">Download App</button>
           </div>
           <div class="mx-auto md:ml-auto md:mr-0">
-            <img src="img/hero-img.svg" alt="Laptop" class="w-full md:w-auto">
+            <img src="../assets/hero-img.svg" alt="Laptop" class="w-full md:w-auto">
           </div>
         </div>
       </div>

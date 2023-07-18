@@ -12,7 +12,7 @@ const toggleMobileMenu = () => {
     <div class="container mx-auto px-4 lg:px-10">
       <nav class="relative flex flex-col md:flex-row items-center justify-between">
         <a href="index.html" class="md:mr-0 mr-auto">
-          <img src="img/logo.svg" alt="Logo" class="h-8">
+          <img src="../assets/logo.svg" alt="Logo" class="h-8">
         </a>
         <button @click="toggleMobileMenu" class="absolute top-0 right-0 ml-auto text-gray-500 focus:outline-none md:hidden">
           <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
