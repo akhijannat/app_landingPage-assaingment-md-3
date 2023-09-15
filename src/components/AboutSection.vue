@@ -46,7 +46,7 @@
                 <h3 class="text-3xl md:text-4xl mb-2">{{ counter[0] }}</h3>
                 <h5 class="text-base md:text-xl">Download</h5>
               </div>
-              <div class="border-white border-x-2 pt-4 md:pt-0 px-4 md:px-8">
+              <div class="border-white border-y-2 md:border-x-2 pt-4 md:pt-0 px-4 md:px-8">
                 <h3 class="text-3xl md:text-4xl mb-2">{{ counter[1] }}</h3>
                 <h5 class="text-base md:text-xl">Happy Users</h5>
               </div>
